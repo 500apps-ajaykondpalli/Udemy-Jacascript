@@ -1,4 +1,4 @@
-# Udemy-Jacascript
+# Udemy-Javascript
 
 01-Fundamentals-part-1
     (variables, datatypes, operators, string and template literals, if-else conditions, switch case, coding challenges)
