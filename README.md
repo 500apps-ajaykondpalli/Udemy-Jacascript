@@ -6,6 +6,9 @@
 03-Fundamentals-part-2
     (for loop,while loop, functions, arrow functions, introduction to arrays , introduction to objects, coding challenges)
     
-04-4.JS-dom-and-event-fundamentals
+04-JS-dom-and-event-fundamentals
     (contains dom and event fundamentals with respect to basic javascript projects)
+  
+05-Data-Structures-Operators
+    (destructuring objects and arrays, strings practise, scope, hoisting, this Keyword)
 
