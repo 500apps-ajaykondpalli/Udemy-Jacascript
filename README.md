@@ -11,4 +11,8 @@
   
 05-Data-Structures-Operators
     (destructuring objects and arrays, strings practise, scope, hoisting, this Keyword)
+    
+06-Functions
+    (functio areguments, call backs, .call and .bind methods)
+    
 
